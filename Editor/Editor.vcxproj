@@ -51,6 +51,13 @@
     <ClInclude Include="LvePipeline.h" />
     <ClInclude Include="LveSwapChain.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Object Include="models\colored_cube.obj" />
+    <Object Include="models\cube.obj" />
+    <Object Include="models\flat_vase.obj" />
+    <Object Include="models\quad.obj" />
+    <Object Include="models\smooth_vase.obj" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{8C1A20B0-78BC-4A86-6177-5EDA4DB8D1D6}</ProjectGuid>
     <IgnoreWarnCompileDuplicatedFilename>true</IgnoreWarnCompileDuplicatedFilename>

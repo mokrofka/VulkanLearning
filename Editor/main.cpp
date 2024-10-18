@@ -13,14 +13,9 @@ void compileShaders() {
 	}
 }
 
-struct Per {
-	i32 a;
-
-};
-
 i32 main() {
 	compileShaders();
-
+		
 	App app;
 
 	try {
